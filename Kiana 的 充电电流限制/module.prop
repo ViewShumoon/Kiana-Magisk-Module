@@ -1,0 +1,6 @@
+id=k.limit-charge-current
+name= Kiana 的充电电流限制 3000
+version=v0.1.1
+versionCode=20230926
+author=Kiana
+description=限制最大充电电流为3000mA, 限制可在模块目录下的 charge_current 中修改.

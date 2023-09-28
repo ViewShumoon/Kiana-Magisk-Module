@@ -1,0 +1,6 @@
+id=k.limit-cpu-max-frequency.sm8250
+name=Kiana 的 CPU 最大频率限制 1900
+version=v0.0.1
+versionCode=20230925
+author=Kiana
+description=限制 CPU 最大频率为 1900 MHz 左右, 适用于 SM8250, 限制可在模块目录下的 cpu_frequency 中修改.
